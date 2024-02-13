@@ -56,6 +56,6 @@
 
 Remember, UML diagrams are a powerful tool for communication, design, and documentation in software engineering. Whether you're a developer, architect, or analyst, mastering UML can enhance your ability to create robust and well-structured systems.
 
-(1) UML Diagram - Everything You Need to Know About UML Diagrams - SmartDraw. https://www.smartdraw.com/uml-diagram/.
-(2) Unified Modeling Language (UML) description, UML diagram examples .... https://www.uml-diagrams.org/.
-(3) Unified Modeling Language (UML) Diagrams | An Introduction. https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/.
+1. UML Diagram - Everything You Need to Know About UML Diagrams - SmartDraw. https://www.smartdraw.com/uml-diagram/.
+2. Unified Modeling Language (UML) description, UML diagram examples .... https://www.uml-diagrams.org/.
+3. Unified Modeling Language (UML) Diagrams | An Introduction. https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/.
